@@ -11,7 +11,7 @@
   "dependencies": {
     "get-pixels": "^3.3.0",
     "ramda": "^0.23.0",
-    "request": "^2.74.0"
+    "request": "^2.86.0"
   },
   "devDependencies": {},
   "repository": {
